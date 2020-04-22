@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.0.5)
+  - CouchbaseLite-Swift-Enterprise (2.7.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - CouchbaseLite-Swift-Enterprise
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CouchbaseLite-Swift-Enterprise
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  CouchbaseLite-Swift-Enterprise: 43472e7810b6ed30304c77f8cd00ceee6489d746
+
+PODFILE CHECKSUM: 7077cfd03e3ebecffaa632c8937b8aad179720f0
+
+COCOAPODS: 1.9.1
